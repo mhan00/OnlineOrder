@@ -4,3 +4,7 @@
 3. Provided both authentication and authorization via Spring security to protect the application from malicious attacks.
 4. Used the Spring framework core technologies to loosely decouple all the components in the application
 5. Build the client side with ReactJS and Ant Design to allow users to add items to the shopping cart and place orders.
+
+
+https://user-images.githubusercontent.com/95845619/146629178-f9a6efbe-ad24-46be-8dee-2c9771459c6e.mov
+
